@@ -1,0 +1,3 @@
+This plugin introduces a github_user_infos view in the database, which is backwards compatible with the old table. 
+
+Data is pulled from user_associated_accounts
